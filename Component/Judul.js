@@ -10,9 +10,9 @@ export default class Judul extends Component{
 }
 const gaya ={
     heho: {
-        color: 'black',
+        color: 'white',
         fontSize: 40,
         fontWeight: 'bold',
-        backgroundColor: 'grey'
+        backgroundColor: '#26427D'
     }
 }
