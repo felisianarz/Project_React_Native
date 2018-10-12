@@ -4,7 +4,7 @@ import {Text} from 'react-native';
 export default class Judul extends Component{
     render(){
         return(
-            <Text style={gaya.heho}>BIODATA</Text>
+            <Text style={gaya.heho}>WELCOME</Text>
         )
     }
 }

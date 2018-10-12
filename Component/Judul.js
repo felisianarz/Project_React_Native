@@ -17,7 +17,7 @@ export default class Judul extends Component{
 			<Image source ={require('./foto.jpg')} style={{width: 200, height: 200}}/> 
 			<Text style = {warna.adel}> Hoi Hoi !! </Text>
 			<Text style = {salon.feli} > Felisiana Ardelia Azzahra</Text>
-			<Text style = {salon.feli} > XI RPL 2 </Text>
+			<Text style = {salon.feli} > XI RPL 2/ 17 </Text>
 			<Text style = {salon.feli} > SMK TELKOM Purwokerto</Text>
 			   <Text style = {{ marginBottom : 50}}></Text>
 			   <Button title = " Next " color = "#0984e3" onPress = {() => {this.redirect()}}/>
